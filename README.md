@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Browser Extensions & Productivity Tools**.
-- 🌱 I’m currently learning **Advanced JavaScript & Flutter**.
+- 🌱 I’m currently learning **Advanced JavaScript & Web Development**.
 - 💡 I’m interested in **Open Source, EdTech, and Islamic Tech**.
 - ⚡ Fun fact: I love solving complex problems with simple code!
 
